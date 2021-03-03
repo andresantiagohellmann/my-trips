@@ -1,9 +1,3 @@
-import * as S from './styles'
-
-const Main = () => (
-  <S.Wrapper>
-    <h1>Boilerplate</h1>
-  </S.Wrapper>
-)
+const Main = () => <h1>My trips</h1>
 
 export default Main
